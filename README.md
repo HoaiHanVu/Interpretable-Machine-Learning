@@ -2,8 +2,8 @@
 
 ## Introduction
 
-This repository focuses on enhancing the interpretability of complex machine learning models. We aim to provide explanations for model behavior and individual predictions to improve transparency and understanding. By leveraging advanced methods such as the Lime package, SHAP frameworks, and Perturbation Importance Features, we explore and synthesize techniques for interpreting ML models and their practical applications.
-This works assist understanding and interpreting complex machine learning models using the Lime package, SHAP frameworks, and Perturbation Importance Features. The insights gained from this repository can be applied to improve the transparency and interpretability of ML models in various practical applications.
+This repository focuses on enhancing the interpretability of complex machine learning models. We aim to provide explanations for model behavior and individual predictions to improve transparency and understanding. By leveraging advanced methods such as the `Lime package`, `SHAP frameworks`, and `Perturbation Importance Features`, we explore and synthesize techniques for interpreting ML models and their practical applications.
+This works assist understanding and interpreting complex machine learning models using the `Lime package`, `SHAP frameworks`, and `Perturbation Importance Features`. The insights gained from this repository can be applied to improve the transparency and interpretability of ML models in various practical applications.
 
 
 ## Features
